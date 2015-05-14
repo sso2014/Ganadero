@@ -41,6 +41,8 @@
   <ItemGroup>
     <Compile Include="BaseBovino.cs" />
     <Compile Include="Data\Bovino.cs" />
+    <Compile Include="Data\Campo.cs" />
+    <Compile Include="Data\Establecimiento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

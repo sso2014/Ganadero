@@ -1,0 +1,20 @@
+C:\Users\Telemetria\documents\visual studio 2013\Projects\Ganadero\GanaderiaWeb\bin\GanaderiaWeb.dll.config
+C:\Users\Telemetria\documents\visual studio 2013\Projects\Ganadero\GanaderiaWeb\bin\GanaderiaWeb.dll
+C:\Users\Telemetria\documents\visual studio 2013\Projects\Ganadero\GanaderiaWeb\bin\GanaderiaWeb.pdb
+C:\Users\Telemetria\documents\visual studio 2013\Projects\Ganadero\GanaderiaWeb\obj\Debug\GanaderiaWeb.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\documents\visual studio 2013\Projects\Ganadero\GanaderiaWeb\obj\Debug\GanaderiaWeb.dll
+C:\Users\Telemetria\documents\visual studio 2013\Projects\Ganadero\GanaderiaWeb\obj\Debug\GanaderiaWeb.pdb
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\GanaderiaWeb\bin\G.Core.dll
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\GanaderiaWeb\bin\G.Data.dll
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\GanaderiaWeb\bin\G.Core.pdb
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\GanaderiaWeb\bin\G.Data.pdb
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\bin\GanaderiaWeb.dll.config
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\bin\GanaderiaWeb.dll
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\bin\GanaderiaWeb.pdb
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\bin\G.Core.dll
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\bin\G.Data.dll
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\bin\G.Core.pdb
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\bin\G.Data.pdb
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\obj\Debug\GanaderiaWeb.csprojResolveAssemblyReference.cache
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\obj\Debug\GanaderiaWeb.dll
+E:\Proyectos\07_05_2015\Ganadero\GanaderiaWeb\obj\Debug\GanaderiaWeb.pdb

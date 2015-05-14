@@ -41,12 +41,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BovinoListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FrmActaDeVacunacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmActaDeVacunacion.Designer.cs">
+      <DependentUpon>FrmActaDeVacunacion.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmBovino.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmBovino.Designer.cs">
       <DependentUpon>FrmBovino.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCampo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCampo.Designer.cs">
+      <DependentUpon>FrmCampo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRodeoGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRodeoGeneral.Designer.cs">
+      <DependentUpon>FrmRodeoGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IBovinoView.cs" />
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -56,8 +78,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FrmActaDeVacunacion.resx">
+      <DependentUpon>FrmActaDeVacunacion.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmBovino.resx">
       <DependentUpon>FrmBovino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCampo.resx">
+      <DependentUpon>FrmCampo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRodeoGeneral.resx">
+      <DependentUpon>FrmRodeoGeneral.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

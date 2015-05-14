@@ -10,3 +10,22 @@ c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Deb
 c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Core.pdb
 c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Data.pdb
 c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\bin\Debug\G.Gui.dll
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\bin\Debug\G.Gui.pdb
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\bin\Debug\G.Core.dll
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\bin\Debug\G.Data.dll
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\bin\Debug\G.Core.pdb
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\bin\Debug\G.Data.pdb
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.csprojResolveAssemblyReference.cache
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.Menu.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.csproj.GenerateResource.Cache
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.dll
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.pdb
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRodeoGeneral.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActaDeVacunacion.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRecuento.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActaDeVacunacion.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRodeoGeneral.resources

@@ -19,8 +19,7 @@ namespace G.Gui
             InitializeComponent();
         }
 
-        BovinoRepository repository = new BovinoRepository();
-        
+               
         private void button1_Click(object sender, EventArgs e)
         {
                      

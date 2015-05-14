@@ -95,6 +95,14 @@ namespace G.Data.Dao
             paramater[0].Value = id;
             return conn.executeDeleteQuery(query, paramater);
         }
+
+        public DataTable selectAllCampos()
+        {
+            string query =
+                string.Format("SELECT_ALL_CAMPOS");
+            return conn.executeSelectQuery(query, null);
+        }
+
         public DataTable selectAllSexos()
         {
             string query =

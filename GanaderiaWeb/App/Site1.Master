@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="GanaderiaWeb.App.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <asp:Table ID="Table1" runat="server" BorderStyle="Solid">
+            <asp:TableRow runat="server">
+            </asp:TableRow>
+            <asp:TableRow runat="server">
+            </asp:TableRow>
+            <asp:TableRow runat="server">
+            </asp:TableRow>
+            <asp:TableRow runat="server">
+            </asp:TableRow>
+        </asp:Table>
+        &nbsp;&nbsp;&nbsp;
+        <div style="margin-left: 720px">
+            <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/App/Account/Login.aspx" style="text-align: justify">LinkButton</asp:LinkButton>
+        </div>
+    </form>
+</body>
+</html>

@@ -12,24 +12,56 @@ using G.Data;
 
 namespace G.Gui
 {
-    public partial class Menu : Form
+    public partial class Menu : Form, IBovinoView
     {
         public Menu()
         {
             InitializeComponent();
         }
 
+        public event Action BovinoSelect;
 
-        private void Menu_Load(object sender, EventArgs e)
+        public void SelectAllBovino(List<Bovino> bovinos)
         {
-        //    BovinoRepository rb = new BovinoRepository();
-        //    listBox1.DataSource = rb.getAllBovinos();
+            dataGridView1.DataSource = bovinos;
+        }
+
+        public Bovino SelectBovino
+        {
+            get { throw new NotImplementedException(); }
         }
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-        //    FrmBovino animal = new FrmBovino();
-        //    animal.ShowDialog();
+            FrmBovino frm = new FrmBovino();
+            frm.ShowDialog();
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            FrmActaDeVacunacion frmVac = new FrmActaDeVacunacion();
+            frmVac.ShowDialog();
+        }
+
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+            FrmCampo frmCam = new FrmCampo();
+            frmCam.ShowDialog();
+        }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Menu_Load(object sender, EventArgs e)
+        {
+        
+        }
+
+        private void btn_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

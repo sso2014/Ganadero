@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Presenter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -69,6 +70,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\G.Core\G.Core.csproj">
+      <Project>{d0b211e4-92fb-4312-81a2-ab8abdd43bd5}</Project>
+      <Name>G.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\G.Data\G.Data.csproj">
+      <Project>{93fd9edc-3885-4ac4-947b-cd2750b198cf}</Project>
+      <Name>G.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\G.Gui\G.Gui.csproj">
       <Project>{5fcdb3ac-a2da-4149-b0b8-ca97ceaa8d5c}</Project>
       <Name>G.Gui</Name>

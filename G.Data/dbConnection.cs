@@ -15,6 +15,7 @@ namespace G.Data
                 myAdapter = new SqlDataAdapter();
                 conn = new SqlConnection(StringConnection);
             }
+
             private SqlDataAdapter myAdapter;
             private SqlConnection conn;
             private string StringConnection =
@@ -35,6 +36,7 @@ namespace G.Data
                     return null;
                 }
             }
+            
             public int executeUpdateQuery(string query, SqlParameter[] parameters)
             {
                 SqlCommand myCommand = new SqlCommand();

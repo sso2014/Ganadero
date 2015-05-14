@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="BovinoRepository.cs" />
     <Compile Include="Bus\userBus.cs" />
+    <Compile Include="CampoRepository.cs" />
     <Compile Include="Dao\userDao.cs" />
     <Compile Include="dbConnection.cs" />
     <Compile Include="IBovinoRepository.cs" />

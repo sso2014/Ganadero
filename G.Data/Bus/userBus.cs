@@ -30,14 +30,12 @@ namespace G.Data.Bus
                         id = Convert.ToInt32(dr["Bovino_id"]),
                         Rp = Convert.ToInt32(dr["Rp"]),
                         Apodo = Convert.ToString(dr["Apodo"]),
-                        //Fecha_Nacimiento = Convert.ToDateTime(dr["Fecha_Nacimiento"]),
-                        Sexo = Convert.ToInt32(dr["Sexo"]),
-                        Color = Convert.ToInt32(dr["Color"]),
-                        Peso = (float)Convert.ToDouble(dr["Peso"]),
+                        Sexo = dr["Sexo"].ToString(),
+                        Color = dr["Color"].ToString(),
+                        Peso = (float)Convert.ToDouble(dr["Peso_Actual"]),
                         Edad = Convert.ToInt32(dr["Edad"]),
-                        //Madre = Convert.ToInt32(dr["Madre"]),
-                        //Padre = Convert.ToInt32(dr["Padre"]),
-                        Raza = Convert.ToInt32(dr["Raza_id"])
+                        Raza = dr["Raza"].ToString(),
+                        Categoria = dr["Categoria"].ToString()                        
                     });
                 }
             }
@@ -46,6 +44,22 @@ namespace G.Data.Bus
                 string st = e.Message;
             }
             return bovinos;
+        }
+
+        public List<Campo> GetAllCampos(){
+
+            List<Campo> campos = new List<Campo>();
+            foreach (DataRow dr in dao.selectAllCampos().Rows)
+            {
+                campos.Add(new Campo()
+                {
+                    id = Convert.ToInt32(dr["Campo_id"]),
+                    Nombre = dr["Nombre"].ToString(),
+                    Raspa = dr["Raspa"].ToString()
+                });
+            };
+            return campos;
+
         }
        
         public int SetSexoBovino(string sexo)

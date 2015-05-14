@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using G.Gui;
+using G.Data;
+
 
 namespace Ganadero
 {
@@ -16,7 +19,11 @@ namespace Ganadero
         {
             //Application.EnableVisualStyles();
             //Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new G.Gui.Menu());
+            
+            var repository = new BovinoRepository();
+            var view = new G.Gui.Menu();
+            var presenter = new Presenter(view, repository);
+            Application.Run(view);
         }
     }
 }
