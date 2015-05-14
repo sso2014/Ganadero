@@ -1,0 +1,12 @@
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Gui.dll
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Gui.pdb
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.csprojResolveAssemblyReference.cache
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.Menu.resources
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.csproj.GenerateResource.Cache
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.dll
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.pdb
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Core.dll
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Data.dll
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Core.pdb
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Data.pdb
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino.resources

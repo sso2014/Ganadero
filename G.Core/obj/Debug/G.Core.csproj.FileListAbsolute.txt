@@ -1,0 +1,5 @@
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Core\bin\Debug\G.Core.dll
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Core\bin\Debug\G.Core.pdb
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Core\obj\Debug\G.Core.csprojResolveAssemblyReference.cache
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Core\obj\Debug\G.Core.dll
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\G.Core\obj\Debug\G.Core.pdb

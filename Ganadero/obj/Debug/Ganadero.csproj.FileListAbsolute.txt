@@ -1,0 +1,14 @@
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\Ganadero.exe.config
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\Ganadero.exe
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\Ganadero.pdb
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Gui.dll
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Gui.pdb
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.csprojResolveAssemblyReference.cache
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.Properties.Resources.resources
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.csproj.GenerateResource.Cache
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.exe
+c:\users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.pdb
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Data.dll
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Core.dll
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Data.pdb
+c:\Users\telemetria\documents\visual studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Core.pdb
