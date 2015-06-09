@@ -12,3 +12,31 @@ E:\Proyectos\07_05_2015\Ganadero\G.Data\bin\Debug\G.Core.pdb
 E:\Proyectos\07_05_2015\Ganadero\G.Data\obj\Debug\G.Data.csprojResolveAssemblyReference.cache
 E:\Proyectos\07_05_2015\Ganadero\G.Data\obj\Debug\G.Data.dll
 E:\Proyectos\07_05_2015\Ganadero\G.Data\obj\Debug\G.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Data\bin\Debug\G.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Data\bin\Debug\G.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Data\bin\Debug\G.Core.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Data\bin\Debug\G.Core.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Data\obj\Debug\G.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Data\obj\Debug\G.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Data\obj\Debug\G.Data.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Data\obj\Debug\G.Data.csprojResolveAssemblyReference.cache
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Data\obj\Debug\G.Data.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Data\obj\Debug\G.Data.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Data\bin\Debug\G.Data.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Data\bin\Debug\G.Data.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Data\bin\Debug\G.Core.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Data\bin\Debug\G.Core.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Data\bin\Debug\G.Data.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Data\bin\Debug\G.Data.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Data\bin\Debug\G.Core.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Data\bin\Debug\G.Core.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Data\obj\Debug\G.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Data\obj\Debug\G.Data.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Data\obj\Debug\G.Data.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\bin\Debug\G.Data.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\bin\Debug\G.Data.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\bin\Debug\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\bin\Debug\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\obj\Debug\G.Data.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\obj\Debug\G.Data.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\obj\Debug\G.Data.pdb

@@ -1,0 +1,14 @@
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\Ganadero.exe.config
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\Ganadero.exe
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\Ganadero.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\G.Data.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\G.Gui.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\G.Data.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Release\G.Gui.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Release\Ganadero.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Release\Ganadero.Properties.Resources.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Release\Ganadero.csproj.GenerateResource.Cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Release\Ganadero.exe
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Release\Ganadero.pdb

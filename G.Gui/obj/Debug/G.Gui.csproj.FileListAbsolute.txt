@@ -25,7 +25,137 @@ E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.pdb
 E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo.resources
 E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRodeoGeneral.resources
 E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActaDeVacunacion.resources
-E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRecuento.resources
 C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActaDeVacunacion.resources
 C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo.resources
 C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRodeoGeneral.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmIngreso.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.Form1.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.frmMortandad.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTraslado.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino2.resources
+C:\Users\Telemetria\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovinoGeneral.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.Form1.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino2.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovinoGeneral.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmIngreso.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.frmMortandad.resources
+E:\Proyectos\07_05_2015\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTraslado.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.Form1.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActaDeVacunacion.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino2.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovinoGeneral.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmIngreso.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.frmMortandad.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRodeoGeneral.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTraslado.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.Menu.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Gui.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Gui.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Core.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Core.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\bin\Debug\G.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino_Ingresos.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCantidadGeneral.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\bin\Debug\G.Gui.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\bin\Debug\G.Gui.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\bin\Debug\G.Core.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\bin\Debug\G.Data.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\bin\Debug\G.Core.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\bin\Debug\G.Data.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.csprojResolveAssemblyReference.cache
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCantidadGeneral.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActaDeVacunacion.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino2.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino_Ingresos.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovinoGeneral.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmIngreso.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.frmMortandad.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRodeoGeneral.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.csproj.GenerateResource.Cache
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo2.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento2.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmManu2.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.BovinoListView.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.CampoTreeView.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCampo.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Gui.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Gui.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Core.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Data.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Core.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Data.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.BovinoListView.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CampoTreeView.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCampo.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCantidadGeneral.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.Form1.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActaDeVacunacion.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino2.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino_Ingresos.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovinoGeneral.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo2.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento2.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmIngreso.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmManu2.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.frmMortandad.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRodeoGeneral.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTraslado.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.Properties.Resources.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCampo_Propiedades.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTransferencia.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Gui.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Gui.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Data.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\bin\Debug\G.Data.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.BovinoListView.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CampoTreeView.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCampo.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCampo_Propiedades.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlCantidadGeneral.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActaDeVacunacion.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino2.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovino_Ingresos.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmBovinoGeneral.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmCampo2.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmEstablecimiento2.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmIngreso.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmManu2.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.frmMortandad.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmRodeoGeneral.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTransferencia.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.Properties.Resources.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.csproj.GenerateResource.Cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlTranferencia.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTransferencia2.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActa.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlActa.resources

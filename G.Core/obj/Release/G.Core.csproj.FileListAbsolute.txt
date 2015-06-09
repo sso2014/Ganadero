@@ -1,0 +1,5 @@
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\bin\Release\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\bin\Release\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\obj\Release\G.Core.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\obj\Release\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\obj\Release\G.Core.pdb

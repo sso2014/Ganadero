@@ -13,7 +13,7 @@ namespace GanaderiaWeb.App
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            BovinoRepository repository = new BovinoRepository();
+            GanaderoRepository repository = new GanaderoRepository();
             bovinos = repository.getAllBovinos();
             TableRow tempRow = new TableRow();
 

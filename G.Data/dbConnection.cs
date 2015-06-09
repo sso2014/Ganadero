@@ -19,7 +19,11 @@ namespace G.Data
             private SqlDataAdapter myAdapter;
             private SqlConnection conn;
             private string StringConnection =
-            @"Data Source=TELEMETRIA-PC\SSOFT;Initial Catalog=Ganaderia;User ID=admin;Password=SSOsso123";
+                @"Data Source=TELEMETRIA-PC\SSOFT;Initial Catalog=Ganaderia;Integrated Security=True";
+                 //@"Data Source=TELEMETRIA-PC\RIEGO;Initial Catalog=GANADERIA;Integrated Security=True";
+            //@"Data Source=UAGRRES00012\RIEGO;Initial Catalog=GANADERIA;Integrated Security=True";
+            //@"Data Source=TELEMETRIA-PC\SSOFT;Initial Catalog=GANADERIA;Integrated Security=True";//;Ganaderia;User ID=admin;Password=SSOsso123";
+            //@"Data Source=TELEMETRIA-PC\SSOFT;Initial Catalog=Ganaderia;User ID=admin;Password=SSOsso123";
             private SqlConnection openConnection()
             {
                 try
@@ -28,7 +32,6 @@ namespace G.Data
                     {
                         conn.Open();
                     }
-
                     return conn;
                 }
                 catch (Exception exp)
@@ -100,6 +103,8 @@ namespace G.Data
                 }
                 catch (SqlException exp)
                 {
+
+                    string msg = exp.Message;
                     return 0;
                 }
                 finally

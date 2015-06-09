@@ -11,11 +11,11 @@ namespace G.Data
     {
         public CampoRepository()
         {
-            bovinos = new BovinoRepository();            
+            bovinos = new GanaderoRepository();            
            
         }
         List<Campo> campos;
-        BovinoRepository bovinos;
+        GanaderoRepository bovinos;
        
         //public List<Campo> getAllCampos()
         //{

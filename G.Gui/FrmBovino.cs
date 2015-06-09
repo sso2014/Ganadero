@@ -19,10 +19,27 @@ namespace G.Gui
             InitializeComponent();
         }
 
-               
+        public Establecimiento Establecimiento { set; private get; }
+        public Bovino Bovino{
+            get {
+                return bovino;
+            }
+        }
+        private Bovino bovino = null;
+        
         private void button1_Click(object sender, EventArgs e)
         {
-                     
+            bovino = new Bovino();
+            bovino.Color = "C";
+            bovino.Apodo = apodo_Text.Text;
+            //bovino.Categoria = categoria_txt.Text;
+            bovino.Edad = (int)numEdad.Value;
+            bovino.EstablecimientoID = Establecimiento.Id;
+            bovino.Peso = (int)numPeso.Value;
+            bovino.Raza = raza_CBox.Text;
+            bovino.Rp = rp_txt.Text;
+            bovino.Sexo = sexo_text.Text;
         }
+
     }
 }

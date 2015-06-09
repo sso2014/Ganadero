@@ -20,8 +20,8 @@ namespace Ganadero
             //Application.EnableVisualStyles();
             //Application.SetCompatibleTextRenderingDefault(false);
             
-            var repository = new BovinoRepository();
-            var view = new G.Gui.Menu();
+            var repository = new GanaderoRepository2();
+            var view = new G.Gui.FrmManu2();
             var presenter = new Presenter(view, repository);
             Application.Run(view);
         }

@@ -40,9 +40,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseBovino.cs" />
+    <Compile Include="Data\ActaVacunacion.cs" />
     <Compile Include="Data\Bovino.cs" />
     <Compile Include="Data\Campo.cs" />
+    <Compile Include="Data\Categoria.cs" />
     <Compile Include="Data\Establecimiento.cs" />
+    <Compile Include="Data\Recuento.cs" />
+    <Compile Include="DataUser\Evento.cs" />
+    <Compile Include="Data\Transferencia.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

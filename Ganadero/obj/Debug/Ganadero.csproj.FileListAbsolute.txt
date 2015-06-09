@@ -26,3 +26,59 @@ E:\Proyectos\07_05_2015\Ganadero\Ganadero\bin\Debug\G.Gui.pdb
 E:\Proyectos\07_05_2015\Ganadero\Ganadero\obj\Debug\Ganadero.csprojResolveAssemblyReference.cache
 E:\Proyectos\07_05_2015\Ganadero\Ganadero\obj\Debug\Ganadero.Properties.Resources.resources
 E:\Proyectos\07_05_2015\Ganadero\Ganadero\obj\Debug\Ganadero.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\Ganadero.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.exe
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\Ganadero.exe
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\Ganadero.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Core.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Gui.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Core.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\bin\Debug\G.Gui.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Ganadero\Ganadero\obj\Debug\Ganadero.csproj.GenerateResource.Cache
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\Ganadero.exe.config
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\obj\Debug\Ganadero.exe
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\obj\Debug\Ganadero.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\Ganadero.exe
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\Ganadero.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\G.Core.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\G.Data.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\G.Gui.dll
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\G.Core.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\G.Data.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\bin\Debug\G.Gui.pdb
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\obj\Debug\Ganadero.csprojResolveAssemblyReference.cache
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\obj\Debug\Ganadero.Properties.Resources.resources
+E:\Proyectos\12_05_2015_Project\Ganadero\Ganadero\obj\Debug\Ganadero.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\Ganadero.exe.config
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.exe
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\Ganadero.exe
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\Ganadero.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Core.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Data.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Gui.dll
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Core.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Data.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Gui.pdb
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.Properties.Resources.resources
+C:\Users\Administrador\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.csproj.GenerateResource.Cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\Ganadero.exe.config
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.exe
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\Ganadero.exe
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\Ganadero.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Data.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Gui.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Data.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Gui.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.Properties.Resources.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.csproj.GenerateResource.Cache

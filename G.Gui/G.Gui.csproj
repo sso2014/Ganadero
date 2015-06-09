@@ -34,6 +34,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,6 +44,45 @@
   <ItemGroup>
     <Compile Include="BovinoListView.cs">
       <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CampoTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CtrlActa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlActa.Designer.cs">
+      <DependentUpon>CtrlActa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlCampo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlCampo.Designer.cs">
+      <DependentUpon>CtrlCampo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlCampo_Propiedades.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlCampo_Propiedades.Designer.cs">
+      <DependentUpon>CtrlCampo_Propiedades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlCantidadGeneral.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlCantidadGeneral.Designer.cs">
+      <DependentUpon>CtrlCantidadGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlTranferencia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlTranferencia.Designer.cs">
+      <DependentUpon>CtrlTranferencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmActa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmActa.Designer.cs">
+      <DependentUpon>FrmActa.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmActaDeVacunacion.cs">
       <SubType>Form</SubType>
@@ -56,11 +96,65 @@
     <Compile Include="FrmBovino.Designer.cs">
       <DependentUpon>FrmBovino.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmBovino2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBovino2.Designer.cs">
+      <DependentUpon>FrmBovino2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBovino_Ingresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBovino_Ingresos.Designer.cs">
+      <DependentUpon>FrmBovino_Ingresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBovinoGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBovinoGeneral.Designer.cs">
+      <DependentUpon>FrmBovinoGeneral.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmCampo.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmCampo.Designer.cs">
       <DependentUpon>FrmCampo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCampo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCampo2.Designer.cs">
+      <DependentUpon>FrmCampo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstablecimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstablecimiento.Designer.cs">
+      <DependentUpon>FrmEstablecimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstablecimiento2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstablecimiento2.Designer.cs">
+      <DependentUpon>FrmEstablecimiento2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIngreso.Designer.cs">
+      <DependentUpon>FrmIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmManu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmManu2.Designer.cs">
+      <DependentUpon>FrmManu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMortandad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMortandad.Designer.cs">
+      <DependentUpon>frmMortandad.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmRodeoGeneral.cs">
       <SubType>Form</SubType>
@@ -68,30 +162,100 @@
     <Compile Include="FrmRodeoGeneral.Designer.cs">
       <DependentUpon>FrmRodeoGeneral.cs</DependentUpon>
     </Compile>
-    <Compile Include="IBovinoView.cs" />
-    <Compile Include="Menu.cs">
+    <Compile Include="FrmTransferencia.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Menu.Designer.cs">
-      <DependentUpon>Menu.cs</DependentUpon>
+    <Compile Include="FrmTransferencia.Designer.cs">
+      <DependentUpon>FrmTransferencia.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmTransferencia2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTransferencia2.Designer.cs">
+      <DependentUpon>FrmTransferencia2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IGanaderoView.cs" />
+    <Compile Include="IView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="BovinoListView.resx">
+      <DependentUpon>BovinoListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CampoTreeView.resx">
+      <DependentUpon>CampoTreeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlActa.resx">
+      <DependentUpon>CtrlActa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlCampo.resx">
+      <DependentUpon>CtrlCampo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlCampo_Propiedades.resx">
+      <DependentUpon>CtrlCampo_Propiedades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlCantidadGeneral.resx">
+      <DependentUpon>CtrlCantidadGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlTranferencia.resx">
+      <DependentUpon>CtrlTranferencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmActa.resx">
+      <DependentUpon>FrmActa.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmActaDeVacunacion.resx">
       <DependentUpon>FrmActaDeVacunacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmBovino.resx">
       <DependentUpon>FrmBovino.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmBovino2.resx">
+      <DependentUpon>FrmBovino2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBovino_Ingresos.resx">
+      <DependentUpon>FrmBovino_Ingresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBovinoGeneral.resx">
+      <DependentUpon>FrmBovinoGeneral.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmCampo.resx">
       <DependentUpon>FrmCampo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCampo2.resx">
+      <DependentUpon>FrmCampo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstablecimiento.resx">
+      <DependentUpon>FrmEstablecimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstablecimiento2.resx">
+      <DependentUpon>FrmEstablecimiento2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIngreso.resx">
+      <DependentUpon>FrmIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmManu2.resx">
+      <DependentUpon>FrmManu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMortandad.resx">
+      <DependentUpon>frmMortandad.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmRodeoGeneral.resx">
       <DependentUpon>FrmRodeoGeneral.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Menu.resx">
-      <DependentUpon>Menu.cs</DependentUpon>
+    <EmbeddedResource Include="FrmTransferencia.resx">
+      <DependentUpon>FrmTransferencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTransferencia2.resx">
+      <DependentUpon>FrmTransferencia2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

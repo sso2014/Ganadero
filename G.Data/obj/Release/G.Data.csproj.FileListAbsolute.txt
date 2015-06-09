@@ -1,0 +1,7 @@
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\bin\Release\G.Data.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\bin\Release\G.Data.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\bin\Release\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\bin\Release\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\obj\Release\G.Data.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\obj\Release\G.Data.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Data\obj\Release\G.Data.pdb

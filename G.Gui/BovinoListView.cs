@@ -10,6 +10,7 @@ namespace G.Gui
 {
     class BovinoListView:ListView
     {
+       
 
         public object DataSouce
         {
@@ -27,12 +28,24 @@ namespace G.Gui
                     {
                         this.Items.Add(new ListViewItem(new string[]
                     { 
-                    b.Rp.ToString(), b.Apodo, b.Sexo, b.Color, b.Peso.ToString(),b.Edad.ToString(), b.Raza, b.Categoria
+                           b.Rp.ToString(), 
+                           b.Apodo, 
+                           b.Sexo,
+                           b.Color,
+                           b.Peso.ToString(),
+                           b.Edad.ToString(), 
+                           b.Raza
                     }, 0));
                     }
                 }
 
             }
+        }
+
+        private void InitializeComponent()
+        {
+           
+
         }
     }
 }

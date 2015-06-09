@@ -9,7 +9,8 @@ namespace G.Core
     public class BaseBovino
     {
         public int id { get; set; }
-        public int Rp { get; set; }
+        public string Rp { get; set; }
+              
         public override string ToString()
         {
             return "Id: " + id.ToString() + "Rp: " + Rp.ToString();

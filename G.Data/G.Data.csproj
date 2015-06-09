@@ -39,14 +39,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BovinoRepository.cs" />
+    <Compile Include="BovinoCollection.cs" />
+    <Compile Include="BovinoFactory.cs" />
+    <Compile Include="Dao\BovinoDaoImp.cs" />
+    <Compile Include="Dao\CampoDaoImp.cs" />
+    <Compile Include="Dao\CategoriaDaoImp.cs" />
+    <Compile Include="Dao\EstablecimientoDaoImp.cs" />
+    <Compile Include="Dao\EventoDaoImp.cs" />
+    <Compile Include="Dao\IBovinoDao.cs" />
+    <Compile Include="Dao\ICampoDao.cs" />
+    <Compile Include="Dao\ICategoriaDao.cs" />
+    <Compile Include="Dao\IEstablecimientoDao.cs" />
+    <Compile Include="Dao\IEventoDao.cs" />
+    <Compile Include="Dao\ITransferenciaDao.cs" />
+    <Compile Include="Dao\IUnitOfWork.cs" />
+    <Compile Include="Dao\TransferenciaDaoImp.cs" />
+    <Compile Include="GanaderoRepository.cs" />
     <Compile Include="Bus\userBus.cs" />
-    <Compile Include="CampoRepository.cs" />
     <Compile Include="Dao\userDao.cs" />
     <Compile Include="dbConnection.cs" />
+    <Compile Include="GanaderoRepository2.cs" />
+    <Compile Include="IBovinoFactory.cs" />
     <Compile Include="IBovinoRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SexoRepository.cs" />
+    <Compile Include="UnitOfWork.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\G.Core\G.Core.csproj">
