@@ -32,3 +32,4 @@ C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Release\G.Gui.CtrlActa.r
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Release\G.Gui.CtrlTranferencia.resources
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Release\G.Gui.FrmActa.resources
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Release\G.Gui.FrmTransferencia2.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Release\G.Gui.FrmActa2.resources

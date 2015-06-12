@@ -11,11 +11,15 @@ namespace G.Data.Dao
 {
     public class BovinoDaoImp : IBovinoDao, IUnitOfWork
     {
+        private int maxBovino;
+        private userDao dao;
+        private static List<Bovino> bovinos;
+        
         public BovinoDaoImp(userDao dao)
         {
             this.dao = dao;
             bovinos = new List<Bovino>();
-         
+
 
             foreach (DataRow dr in dao.selectAllBovinos().Rows)
             {
@@ -29,16 +33,36 @@ namespace G.Data.Dao
                         id = Convert.ToInt32(dr["Categoria_id"]),
                         Descripcion = dr["Descripcion"].ToString()
                     }
-                });           
+                });
             }
 
             maxBovino = bovinos.Count;
 
         }
 
-        private int maxBovino;
-        private userDao dao;
-        private static List<Bovino> bovinos;
+        public BovinoDaoImp()
+        {
+            this.dao = new userDao();
+            bovinos = new List<Bovino>();
+
+            foreach (DataRow dr in dao.selectAllBovinos().Rows)
+            {
+                bovinos.Add(new Bovino()
+                {
+                    id = Convert.ToInt32(dr["Bovino_id"]),
+                    Rp = dr["Rp"].ToString(),
+                    EstablecimientoID = Convert.ToInt32(dr["Establecimiento_id"]),
+                    Categoria = new Categoria()
+                    {
+                        id = Convert.ToInt32(dr["Categoria_id"]),
+                        Descripcion = dr["Descripcion"].ToString()
+                    }
+                });
+            }
+
+            maxBovino = bovinos.Count;
+
+        }
 
         public List<Bovino> getAllBovinos()
         {

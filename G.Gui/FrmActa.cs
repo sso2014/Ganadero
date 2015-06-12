@@ -53,7 +53,7 @@ namespace G.Gui
 
         void comboBox1_SelectionChangeCommitted(object sender, EventArgs e)
         {
-            CtrlActa ctrlActa = sender as CtrlActa;
+            CtrlActa ctrlActa = sender as CtrlActa; 
 
             if (ctrlActa != null)
             {

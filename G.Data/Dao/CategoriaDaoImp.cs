@@ -11,10 +11,15 @@ namespace G.Data.Dao
 {
     class CategoriaDaoImp:ICategoriaDao, IUnitOfWork
     {
+
+        private userDao dao;
+        private static List<Categoria> categorias;
+
         public CategoriaDaoImp(userDao dao)
         {
 
             this.dao = dao;
+
             categorias = new List<Categoria>();
 
             foreach (DataRow dr in dao.selectAllCategoria().Rows)
@@ -27,10 +32,22 @@ namespace G.Data.Dao
             }
         }
 
-        
-        private userDao dao;
-        private static List<Categoria> categorias;
+        public CategoriaDaoImp()
+        {
+            this.dao = new userDao();
 
+            categorias = new List<Categoria>();
+
+            foreach (DataRow dr in dao.selectAllCategoria().Rows)
+            {
+                categorias.Add(new Categoria()
+                {
+                    id = Convert.ToInt32(dr["Categoria_id"]),
+                    Descripcion = dr["Descripcion"].ToString()
+                });
+            }
+        }
+              
         public List<Core.Data.Categoria> getAllCategoria()
         {
             return categorias;

@@ -84,6 +84,12 @@
     <Compile Include="FrmActa.Designer.cs">
       <DependentUpon>FrmActa.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmActa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmActa2.Designer.cs">
+      <DependentUpon>FrmActa2.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmActaDeVacunacion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -207,6 +213,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmActa.resx">
       <DependentUpon>FrmActa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmActa2.resx">
+      <DependentUpon>FrmActa2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmActaDeVacunacion.resx">
       <DependentUpon>FrmActaDeVacunacion.cs</DependentUpon>

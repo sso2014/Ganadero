@@ -10,14 +10,11 @@ namespace G.Data
     interface IBovinoRepository
     {
         List<Bovino> getAllBovinos();
-
-
+        
         void addBovino(Bovino bovino);
 
-
         void UpdateBovino(Bovino bovino);
-
-
+        
         void DeleteBovino(Bovino bovino);
       
     }

@@ -1,0 +1,10 @@
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\bin\Release\G.Consola.exe.config
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\bin\Release\G.Consola.exe
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\bin\Release\G.Consola.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\bin\Release\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\bin\Release\G.Data.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\bin\Release\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\bin\Release\G.Data.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\obj\Release\G.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\obj\Release\G.Consola.exe
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Consola\obj\Release\G.Consola.pdb

@@ -10,6 +10,9 @@ namespace G.Data.Dao
 {
     public class CampoDaoImp:ICampoDao,IUnitOfWork
     {
+        private userDao dao;
+        private static List<Campo> campos;
+
         public CampoDaoImp(userDao dao)
         {
             this.dao = dao;
@@ -29,8 +32,25 @@ namespace G.Data.Dao
             };
         }
 
-        private userDao dao;
-        private static List<Campo> campos;
+        public CampoDaoImp()
+        {
+            this.dao = new userDao();
+
+            campos = new List<Campo>();
+
+            foreach (DataRow dr in dao.selectAllCampos().Rows)
+            {
+                campos.Add(new Campo()
+                {
+                    id = Convert.ToInt32(dr["Campo_id"]),
+                    Nombre = dr["Nombre"].ToString(),
+                    Renspa = dr["Renspa"].ToString(),
+                    Razon = dr["Razon"].ToString(),
+                    Cuil = dr["Cuil"].ToString(),
+                    RenspaGanadera = dr["Renspa_Ganadero"].ToString(),
+                });
+            };
+        }
 
         public List<Core.Data.Campo> getAllCampos()
         {
