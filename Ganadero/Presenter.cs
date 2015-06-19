@@ -8,7 +8,6 @@ using G.Data;
 using G.Core.Data;
 using G.Core.DataUser;
 
-
 namespace Ganadero
 {
     class Presenter {
@@ -51,11 +50,18 @@ namespace Ganadero
            //}     
            #endregion
            view.LoadEstablecimientos(repository.GetAllEstablecimiento());
-           view.LoadAllCampo(repository.GetAllCampo());           
+           view.LoadAllCampo(repository.GetAllCampo());
            view.LoadBovinos(repository.GetAllBovino());
            view.SelectedCategorias(repository.GetAllCategoria());
            view.LoadAllUserEvent(repository.GetAllUserEvent());
            view.LoadTransferencias(repository.GetAllTransferencias());
+
+           //foreach (Campo campo in repository.GetAllCampo()) {
+           //    campo.Establecimientos = repository.GetAllEstablecimiento().FindAll(e => e.Campo_id == campo.id);
+           //}
+
+           //foreach(Establecimiento establecimiento in repository.GetAllEstablecimiento()) {
+           //}
        }
 
        private void CreateTransferencia()

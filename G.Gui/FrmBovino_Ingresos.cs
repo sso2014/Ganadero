@@ -25,7 +25,7 @@ namespace G.Gui
             {
                 establecimiento = value;
                 Establecimiento_lbl.Text = establecimiento.Nombre;
-                //Renspa_lbl.Text = "Renspa: " + ;
+                Renspa_lbl.Text = "Renspa: " ;
             }
             get
             {
@@ -52,7 +52,7 @@ namespace G.Gui
                     bovinos.Add(new Bovino()
                     {
                         EstablecimientoID = establecimiento.Id,
-                        Rp ="S/D",
+                        Rp = txtRenspa.Text,
                         Categoria = comboBox1.SelectedItem as Categoria
                     });
                 }

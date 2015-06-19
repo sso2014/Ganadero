@@ -11,3 +11,4 @@ C:\Users\Telemetria\Documents\GitHub\Ganadero\G.GUI2\obj\Release\G.GUI2.Properti
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.GUI2\obj\Release\G.GUI2.csproj.GenerateResource.Cache
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.GUI2\obj\Release\G.GUI2.exe
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.GUI2\obj\Release\G.GUI2.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.GUI2\obj\Release\G.GUI2.Form1.resources

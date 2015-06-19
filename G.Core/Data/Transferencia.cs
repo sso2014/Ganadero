@@ -12,8 +12,10 @@ namespace G.Core.Data
 
         public DateTime Fecha { get; set; }
 
+        public string DTeNum { get; set; }
+
         public int DesdeEstablecimiento { get; set; }
-                
+
         public int HastaEstablecimiento { get; set; }
 
         public List<int> Bovino_id { get; set; }

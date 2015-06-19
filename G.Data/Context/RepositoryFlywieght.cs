@@ -18,15 +18,16 @@ namespace G.Data.Context
             {
                 if (!sharedRepository.ContainsKey(repository))
                 {
-                    switch (repository) { 
-                        case "Campo":
-                            return sharedRepository[repository] = new 
+                    switch (repository)
+                    {
                         case "Bovino":
-                        return sharedRepository[repository] = new BovinoRepository();      
+                            return sharedRepository[repository] = new BovinoRepository();
                         default:
-                        return null;
+                            return null;
+                    }
                 }
-                }else{
+                else
+                {
                     return sharedRepository[repository];
                 }
             }

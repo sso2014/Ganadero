@@ -65,6 +65,11 @@ namespace G.Gui
             }
         }
 
+        private void FrmActa_Load(object sender, EventArgs e)
+        {
+
+        }
+
         //public void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         //{
         //    CtrlActa ctrlActa = sender as CtrlActa;

@@ -8,6 +8,9 @@ namespace G.Core.Data
 {
     public class Bovino:BaseBovino
     {
+        public string Renspa { get; set; }
+
+        public int CampoId { get;set; }
 
         public Categoria Categoria { get; set; }
         

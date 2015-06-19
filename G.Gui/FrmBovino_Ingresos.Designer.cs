@@ -36,20 +36,26 @@
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.Renspa_lbl = new System.Windows.Forms.Label();
             this.Establecimiento_lbl = new System.Windows.Forms.Label();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtRenspa = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
             // statusStrip1
             // 
-            this.statusStrip1.Location = new System.Drawing.Point(0, 240);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 231);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(375, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(651, 22);
             this.statusStrip1.TabIndex = 0;
             this.statusStrip1.Text = "statusStrip1";
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(327, 203);
+            this.button3.Location = new System.Drawing.Point(586, 190);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(36, 29);
             this.button3.TabIndex = 3;
@@ -113,11 +119,71 @@
             this.Establecimiento_lbl.TabIndex = 10;
             this.Establecimiento_lbl.Text = "Establecimiento:";
             // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "Acta de Vacunación,",
+            "Traslados,",
+            "Nacimientos,",
+            "Ventas,",
+            "Mortandad,",
+            "Cambios de categoria"});
+            this.comboBox2.Location = new System.Drawing.Point(363, 26);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(147, 21);
+            this.comboBox2.TabIndex = 12;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(360, 83);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(87, 13);
+            this.label3.TabIndex = 13;
+            this.label3.Text = "Numero de Acta:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(360, 111);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(40, 13);
+            this.label4.TabIndex = 14;
+            this.label4.Text = "Fecha:";
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(422, 106);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
+            this.dateTimePicker1.TabIndex = 15;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(453, 80);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(169, 20);
+            this.textBox1.TabIndex = 16;
+            // 
+            // txtRenspa
+            // 
+            this.txtRenspa.Location = new System.Drawing.Point(109, 31);
+            this.txtRenspa.Name = "txtRenspa";
+            this.txtRenspa.Size = new System.Drawing.Size(196, 20);
+            this.txtRenspa.TabIndex = 17;
+            // 
             // FrmBovino_Ingresos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(375, 262);
+            this.ClientSize = new System.Drawing.Size(651, 253);
+            this.Controls.Add(this.txtRenspa);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.Renspa_lbl);
             this.Controls.Add(this.Establecimiento_lbl);
             this.Controls.Add(this.numericUpDown1);
@@ -144,5 +210,11 @@
         private System.Windows.Forms.Label Renspa_lbl;
         private System.Windows.Forms.Label Establecimiento_lbl;
         public System.Windows.Forms.Button button3;
+        public System.Windows.Forms.ComboBox comboBox2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtRenspa;
     }
 }

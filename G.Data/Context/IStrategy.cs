@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace G.Data.Context
 {
-   public  interface IStrategy
-    {
+   public interface IStrategy
+   {
         void Create(object obj);
         
         object Read();
@@ -15,6 +15,5 @@ namespace G.Data.Context
         void Update(object obj);
 
         void Delete(object obj);
-
     }
 }

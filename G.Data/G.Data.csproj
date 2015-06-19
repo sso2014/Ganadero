@@ -44,6 +44,8 @@
     <Compile Include="Context\Context.cs" />
     <Compile Include="Context\IStrategy.cs" />
     <Compile Include="Context\RepositoryFlywieght.cs" />
+    <Compile Include="Dao\ActaVacunacionDaoImp.cs" />
+    <Compile Include="Dao\BovinoBO.cs" />
     <Compile Include="Dao\BovinoIterator.cs" />
     <Compile Include="Dao\BovinoRepository.cs" />
     <Compile Include="Dao\BovinoDaoImp.cs" />
@@ -53,6 +55,7 @@
     <Compile Include="Dao\EstablecimientoDaoImp.cs" />
     <Compile Include="Dao\EstablecimientoRepository.cs" />
     <Compile Include="Dao\EventoDaoImp.cs" />
+    <Compile Include="Dao\IActaVacunacion.cs" />
     <Compile Include="Dao\IBovinoDao.cs" />
     <Compile Include="Dao\ICampoDao.cs" />
     <Compile Include="Dao\ICategoriaDao.cs" />
@@ -60,6 +63,7 @@
     <Compile Include="Dao\IEventoDao.cs" />
     <Compile Include="Dao\ITransferenciaDao.cs" />
     <Compile Include="Dao\IUnitOfWork.cs" />
+    <Compile Include="Dao\IUserDao.cs" />
     <Compile Include="Dao\TransferenciaDaoImp.cs" />
     <Compile Include="GanaderoRepository.cs" />
     <Compile Include="Bus\userBus.cs" />

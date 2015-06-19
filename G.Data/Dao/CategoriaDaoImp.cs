@@ -11,7 +11,6 @@ namespace G.Data.Dao
 {
     class CategoriaDaoImp:ICategoriaDao, IUnitOfWork
     {
-
         private userDao dao;
         private static List<Categoria> categorias;
 

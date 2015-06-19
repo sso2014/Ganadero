@@ -82,3 +82,7 @@ C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Gui.pdb
 C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.csprojResolveAssemblyReference.cache
 C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.Properties.Resources.resources
 C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\obj\Debug\Ganadero.csproj.GenerateResource.Cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Data2.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.GUI2.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.Data2.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\Ganadero\bin\Debug\G.GUI2.dll

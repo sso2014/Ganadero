@@ -159,3 +159,6 @@ C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlTranfere
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTransferencia2.resources
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActa.resources
 C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.CtrlActa.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActa2.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmActa3.resources
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Gui\obj\Debug\G.Gui.FrmTransferencia3.resources

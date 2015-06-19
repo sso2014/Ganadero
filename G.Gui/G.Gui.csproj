@@ -90,6 +90,12 @@
     <Compile Include="FrmActa2.Designer.cs">
       <DependentUpon>FrmActa2.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmActa3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmActa3.Designer.cs">
+      <DependentUpon>FrmActa3.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmActaDeVacunacion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -180,6 +186,12 @@
     <Compile Include="FrmTransferencia2.Designer.cs">
       <DependentUpon>FrmTransferencia2.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmTransferencia3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTransferencia3.Designer.cs">
+      <DependentUpon>FrmTransferencia3.cs</DependentUpon>
+    </Compile>
     <Compile Include="IGanaderoView.cs" />
     <Compile Include="IView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -216,6 +228,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmActa2.resx">
       <DependentUpon>FrmActa2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmActa3.resx">
+      <DependentUpon>FrmActa3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmActaDeVacunacion.resx">
       <DependentUpon>FrmActaDeVacunacion.cs</DependentUpon>
@@ -261,6 +276,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmTransferencia2.resx">
       <DependentUpon>FrmTransferencia2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTransferencia3.resx">
+      <DependentUpon>FrmTransferencia3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

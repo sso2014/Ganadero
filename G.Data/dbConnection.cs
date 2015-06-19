@@ -112,7 +112,6 @@ namespace G.Data
                     myCommand.Connection.Close();
                 }          
             }
-
             public int executeDeleteQuery(string query, SqlParameter[] sqlParameter)
             {
                 SqlCommand myCommand = new SqlCommand();

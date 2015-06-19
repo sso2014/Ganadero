@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5FABF636-849E-4CD0-A76E-179865E1A33E}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Ganadero</RootNamespace>
     <AssemblyName>Ganadero</AssemblyName>
@@ -80,6 +80,10 @@
     <ProjectReference Include="..\G.Data\G.Data.csproj">
       <Project>{93fd9edc-3885-4ac4-947b-cd2750b198cf}</Project>
       <Name>G.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\G.GUI2\G.GUI2.csproj">
+      <Project>{2ecf431f-bb67-405c-8268-472f8931def6}</Project>
+      <Name>G.GUI2</Name>
     </ProjectReference>
     <ProjectReference Include="..\G.Gui\G.Gui.csproj">
       <Project>{5fcdb3ac-a2da-4149-b0b8-ca97ceaa8d5c}</Project>

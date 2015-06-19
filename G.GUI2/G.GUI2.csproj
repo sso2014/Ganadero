@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2ECF431F-BB67-405C-8268-472F8931DEF6}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>G.GUI2</RootNamespace>
     <AssemblyName>G.GUI2</AssemblyName>
@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -44,18 +47,71 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBovino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBovino.Designer.cs">
+      <DependentUpon>FrmBovino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCampo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCampo.Designer.cs">
+      <DependentUpon>FrmCampo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstablecimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstablecimiento.Designer.cs">
+      <DependentUpon>FrmEstablecimiento.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmMain.Designer.cs">
       <DependentUpon>FrmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmMain2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain2.Designer.cs">
+      <DependentUpon>FrmMain2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRenspa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRenspa.Designer.cs">
+      <DependentUpon>FrmRenspa.cs</DependentUpon>
+    </Compile>
     <Compile Include="IView.cs" />
     <Compile Include="Presenter.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBovino.resx">
+      <DependentUpon>FrmBovino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCampo.resx">
+      <DependentUpon>FrmCampo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstablecimiento.resx">
+      <DependentUpon>FrmEstablecimiento.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain2.resx">
+      <DependentUpon>FrmMain2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRenspa.resx">
+      <DependentUpon>FrmRenspa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -83,6 +139,10 @@
     <ProjectReference Include="..\G.Core\G.Core.csproj">
       <Project>{d0b211e4-92fb-4312-81a2-ab8abdd43bd5}</Project>
       <Name>G.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\G.Data2\G.Data2.csproj">
+      <Project>{11be78bc-9763-42da-80dc-2759deda243d}</Project>
+      <Name>G.Data2</Name>
     </ProjectReference>
     <ProjectReference Include="..\G.Data\G.Data.csproj">
       <Project>{93fd9edc-3885-4ac4-947b-cd2750b198cf}</Project>

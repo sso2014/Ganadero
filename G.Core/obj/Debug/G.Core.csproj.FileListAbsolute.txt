@@ -13,3 +13,8 @@ E:\Proyectos\12_05_2015_Project\Ganadero\G.Core\bin\Debug\G.Core.pdb
 E:\Proyectos\12_05_2015_Project\Ganadero\G.Core\obj\Debug\G.Core.csprojResolveAssemblyReference.cache
 E:\Proyectos\12_05_2015_Project\Ganadero\G.Core\obj\Debug\G.Core.dll
 E:\Proyectos\12_05_2015_Project\Ganadero\G.Core\obj\Debug\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\bin\Debug\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\bin\Debug\G.Core.pdb
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\obj\Debug\G.Core.csprojResolveAssemblyReference.cache
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\obj\Debug\G.Core.dll
+C:\Users\Telemetria\Documents\GitHub\Ganadero\G.Core\obj\Debug\G.Core.pdb
